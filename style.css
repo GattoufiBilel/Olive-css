@@ -1,0 +1,70 @@
+body{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 400px;
+  margin-left: 400px;
+  width: 950px ;
+}
+
+header{
+  border: double 10px olive ;
+  width: auto;
+  height: 200px ;
+}
+
+nav{
+  background-color: yellow;
+  margin-top: 0px;
+}
+
+p{
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+}
+
+section{
+  border: dotted 2px yellow ;
+  margin-top: 5px ;
+  margin-bottom: 5px ;
+  margin-left: 200px ;
+  margin-right: 200px;
+}
+
+a{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  padding: 25px ;
+}
+
+footer{
+  color: yellow;
+  background-color: olive;
+  border: double yellow 5px ;
+}
+
+#premier , #troisieme {
+  background-color: dimgray;
+  margin-left: 300px ;
+}
+
+#deuxieme {
+background-color: olive;
+margin-right: 300px ;
+}
+
+aside{
+  background-color: darkgray;
+  color: yellow;
+  font-weight: bold;
+  width: 180px ;
+  border: groove 3px olive ;
+  position: absolute ;
+  top: 650px ;
+  left: 400px ;
+  }
+
+h1{
+  text-align: center;
+}

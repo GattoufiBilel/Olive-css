@@ -1,0 +1,15 @@
+body{margin:0px 200px;width:950px ;}
+header {
+border :double 10px olive ; 
+width:auto; 
+height:200px;	
+}
+p{font-style:italic ; 
+  text-align:center ; 
+  font-family:cursive;}
+#navir1
+{
+background:yellow;
+float:none;
+display: inline;
+}
